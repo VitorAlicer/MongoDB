@@ -4,7 +4,7 @@ Siga o passo a passo para testar o codigo.
     ```bash
     git clone <https://github.com/VitorAlicer/MongoDB.git>
     ```
-2. Abra o projeto com o programa de sua preferencia.
+2. Se Preferir faça o download e abra o projeto com o programa de sua preferencia.
 3. Navegue ate:
 ```src\main\java\org\fundatec\MongoApplication.java ```
 4. Execute o programa.
