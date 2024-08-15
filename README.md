@@ -23,13 +23,20 @@ Siga o passo a passo para testar o codigo.
    "available_tickets": 85000
    } 
     ```
-   [Print1](imagens/Inserir1.PNG)
-   
-   [Print2](imagens/Inserir2.PNG)
+   Imagem 1:
+
+   ![Print1](imagens/Inserir1.PNG)
+
+   Imagem 2:
+
+   ![Print2](imagens/Inserir2.PNG)
+
 6. Para listar os elementos inseridos utilize:
 
    Método: GET
 
    URL: ```http://localhost:8080/api/shows```
 
-   [Print3](imagens/Listar.PNG)
+   Imagem 3:
+
+   ![Print3](imagens/Listar.PNG)
